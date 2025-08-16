@@ -1,0 +1,25 @@
+/* App.css */
+.app {
+  text-align: center;
+  padding: 50px;
+  font-family: sans-serif;
+  transition: background-color 0.5s ease;
+}
+
+.buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+}
+
+.happy {
+  background-color: #ffe066;
+}
+
+.sad {
+  background-color: #74c0fc;
+}
+
+.excited {
+  background-color: #ff6b6b;
+}
